@@ -2,7 +2,7 @@
 
 This repository contains Bible translation files in XML, maintained by Wavefire Solutions PH for the [BibleLibre SDK](https://github.com/wavefiresolutions/biblelibre-sdk). These files use a generic BibleLibre XML structure that is different from Zefaniah, OSIS, and USFX source formats.
 
-> ![Note]
+> [!NOTE]
 > The BibleLibre SDK supports reading Zefaniah, OSIS, and USFX. This repository stores a normalized, non-standard XML format intended to make maintenance and peer review easier.
 
 #### Bible Versions Overview
